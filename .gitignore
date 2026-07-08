@@ -1,0 +1,4 @@
+# Python cache и debug файлове от скрапера - не са нужни в хранилището
+scraper/__pycache__/
+scraper/*.pyc
+scraper/test.html
